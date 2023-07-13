@@ -3,6 +3,7 @@
 <param ve-config 
 title="mangifera"
 author="michael noi"
+  banner="https://upload.wikimedia.org/wikipedia/commons/7/74/Mangos_-_single_and_halved.jpg"
 layout="vertical">
 
 
